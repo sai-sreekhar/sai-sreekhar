@@ -64,4 +64,7 @@ Here are some ideas to get you started:
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-sreekhar&theme=tokyonight" />
 </p>
 
+<!--## My Repos
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=sai-sreekhar&repo=Palanikannan1437&show_owner=true)](https://github.com/sai-sreekhar/Palanikannan1437)-->
+
 
