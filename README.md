@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sai Sreekar</h1>
 <h3 align="center">Backend Web Developer | Competitive Coder | Enthusiastic Leaner</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/a26e46eb4800c8991e14a6f6e32dba1e.gif">
+<img align="right" alt="Coding" width="450" src="https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg">
 
 - 🎓 I am a second year student at VIT Vellore (B.Tech CSE with specialization in Data Science) with a CGPA of 9.74
 
@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 
 - 📫 You can reach me at **sai.sreekhar@gmail.com**
 
-<!--  -->
-<!-- <h3 align="left">Connect with me:</h3> -->
+<br>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sai-sreekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-sreekar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sai_sreekar__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_sreekar__" height="30" width="40" /></a>
 <a href="https://leetcode.com/user6243zE/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6243zE" height="30" width="40" /></a>
 </p>
-<br>
+</br>
 
 ## Languages and Tools
 
@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 ![Jmeter](https://img.shields.io/badge/Jmeter-000000?style=for-the-badge&logo=ApacheJMeter&logoColor=red)
 ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-darkGreen?style=for-the-badge&logo=Django&logoColor=white)
+<br>
 
 ## My GitHub Stats 📈
 
