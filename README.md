@@ -16,17 +16,19 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sai Sreekar</h1>
 <h3 align="center">Backend Web Developer | Competitive Coder | Enthusiastic Leaner</h3>
 <br>
-<img align="right" alt="Coding" width="450" src="https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg">
+<img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg">
 
-- 🎓 I am a second year student at VIT Vellore (B.Tech CSE with specialization in Data Science) with a CGPA of 9.74
+## About Me 👨🏻‍💻
+
+- 🎓 I am a second year student at VIT Vellore (B.Tech CSE Data Science) with a CGPA of 9.74
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 3* coder @codechef (Highest Rating)
 
 - 📫 You can reach me at **sai.sreekhar@gmail.com**
-
 <br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sai-sreekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-sreekar" height="30" width="40" /></a>
