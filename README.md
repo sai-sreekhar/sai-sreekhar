@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-sreekhar&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sai-sreekhar" /></p>
   </div>
   
-  [![Sai Sreekar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sai-sreekhar&theme=xcode)](https://git.io/sai-sreekhar)
+  [![Sai Sreekar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sai-sreekhar&theme=tokyonight)](https://git.io/sai-sreekhar)
 
 <!--## My Repos
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=sai-sreekhar&repo=Palanikannan1437&show_owner=true)](https://github.com/sai-sreekhar/Palanikannan1437)-->
