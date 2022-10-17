@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ## My GitHub Stats 📈
 
 <p align="center"> 
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sai-sreekhar&show_icons=true&count_private=true&theme=tokyonight" alt="SaiSreekar's Github stats" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sai-sreekhar&show_icons=true&count_private=true&theme=github_dark" alt="SaiSreekar's Github stats" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-sreekhar&theme=tokyonight" />
 </p>
 
