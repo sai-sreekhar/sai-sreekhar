@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/[sai-sreekhar])
+![](https://komarev.com/ghpvc/?username=sai-sreekhar&label=PROFILE+VIEWS)
 
 
