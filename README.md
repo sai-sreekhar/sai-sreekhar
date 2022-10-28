@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sai Sreekar</h1>
-<h3 align="center">Backend Web Developer | Competitive Coder | Enthusiastic Leaner</h3>
+<h3 align="center">Backend Web Developer | Competitive Coder | ML Enthusiast</h3>
 <br>
 <img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg">
 
