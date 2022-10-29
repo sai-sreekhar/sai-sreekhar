@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <br>
 <img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg">
 
----
-
 ## About Me 👨🏻‍💻
 
 - 🎓 I am a second year student at VIT Vellore (B.Tech CSE Data Science) with a CGPA of 9.74
