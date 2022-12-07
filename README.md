@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=sai-sreekhar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sai-sreekhar&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-sreekhar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Sai Sreekar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sai-sreekhar&theme=tokyonight)](https://git.io/sai-sreekhar)
+[![SaiSreekar's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sai-sreekhar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 
