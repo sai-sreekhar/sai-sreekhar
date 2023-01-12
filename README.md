@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Machine Learning**
 
--Specialist @codeforces 
--3* coder @codechef (Highest Rating)
+- **Specialist** @codeforces 
+- 3* coder @codechef (Highest Rating)
 
 - 📫 You can reach me at **sai.sreekhar@gmail.com**
 <br>
