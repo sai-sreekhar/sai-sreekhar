@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saisreekargodala) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sai_sreekar__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-sreekar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sai_sreekar__) [![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)](https://leetcode.com/user6243zE)
+(https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sai_sreekar__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-sreekar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sai_sreekar__) [![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)](https://leetcode.com/user6243zE)
 
 # 💻 Languages and Tools:
 
