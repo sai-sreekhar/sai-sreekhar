@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## About Me 👨🏻‍💻
 
-- 🎓 I am a second year student at VIT Vellore (B.Tech CSE Data Science) with a CGPA of 9.74
+- 🎓 I am a second year student at VIT Vellore (B.Tech CSE Data Science) with a CGPA of 9.8
 
 - 🌱 I’m currently learning **Machine Learning**
 
