@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ](https://www.tensorflow.org/)
 [![Spacy](https://img.shields.io/badge/Spacy-%23D00000.svg?style=for-the-badge&logo=SPACY&logoColor=white)
-](https://keras.io/)
+](https://spacy.io/)
 
 # 📊 GitHub Stats:
 
