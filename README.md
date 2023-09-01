@@ -20,15 +20,18 @@ Here are some ideas to get you started:
 
 ## About Me 👨🏻‍💻
 
-- 🎓 I am a second year student at VIT Vellore (B.Tech CSE Data Science) with a CGPA of 9.8
+- 🎓 I am a Third year student at VIT Vellore (B.Tech CSE Data Science) with a CGPA of 9.7
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - **Specialist** @codeforces 
-- 3* coder @codechef (Highest Rating)
+- Solved 500+ Problems on Leetcode
 
 - 📫 You can reach me at **sai.sreekhar@gmail.com**
 <br>
+
+## Resume:
+https://drive.google.com/file/d/1G_Pdu3MdI82hzzTdtHVBb23qKo5UGrGL/view?usp=drive_linkhttps://drive.google.com/file/d/1G_Pdu3MdI82hzzTdtHVBb23qKo5UGrGL/view?usp=drive_link
 
 ## 🌐 Socials:
 
