@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sai Sreekar</h1>
-<h3 align="center">Backend Web Developer | Competitive Coder | ML Enthusiast</h3>
+<h3 align="center">Fullstack Web Developer | Competitive Coder | Passionate about Data Engineering</h3>
 <br>
 <img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg">
 
@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently exploring Big Data Technologies
 
-- **Specialist** @codeforces 
+- **Specialist** @codeforces
+
 - Solved 700+ Problems on Leetcode
 
 - 📫 You can reach me at **sai.sreekhar@gmail.com**
