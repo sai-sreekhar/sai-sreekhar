@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 <img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg">
 
-## About Me 👨🏻‍💻
+## 👨🏻‍💻 About Me 
 
 - I am a software developer with a strong passion for learning new technologies and possess excellent problem-solving and coding skills.
 
@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 <br>
 
-## Resume:
+## 📄 Resume 
 
 [![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1cGv9CdTh3umCFYfgQfnETmQ8MfYKa7wn/view?usp=sharing)
 
-## Education 📚
+## 📚 Education 
 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
   - Bachelor of Technology - Computer Science and Engineering with specialization in Data Science
@@ -116,7 +116,7 @@ Here are some ideas to get you started:
 [![JMeter](https://img.shields.io/static/v1?style=for-the-badge&message=Apache%20JMeter&color=D22128&logo=Apache-JMeter&logoColor=FFFFFF&label=)](https://jmeter.apache.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)](https://www.linux.org/)
 
-# Achievements:
+# 🏆 Achievements:
 
 - 🌟 Specialist Rating (1596) on Codeforces
 - 🌟 Solved 700+ problems on Data Structures and Algorithms.
@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 - 🌟 VIT Academic Merit Scholarship: Received the VIT Academic Merit Scholarship for outstanding academic achievements in 2021-22 and 2022-23.
 - 🌟 3 Star Coder on Codechef
 
-## Experience 💼
+## 💼 Experience 
 
 - **Samsung R&D Institute** (December 2022 - August 2023)
   - Prism Developer (Remote)
@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## Projects 🚀
+## 🚀 Projects 
 
 - **FuturePreneurs Project, E-Cell VIT** (August 2022 - October 2022)
   - [GitHub Repository](https://github.com/sai-sreekhar/FuturePreneurs-22-Backend)
@@ -143,6 +143,14 @@ Here are some ideas to get you started:
   - FuturePreneurs features include Authentication and Authorization module, Quiz module, and Team module.
   - Performance testing is done using JMeter tool.
 
+- **E-Summit'23**
+  - [GitHub Repository](https://github.com/sai-sreekhar/ESummit-Backend23)
+ 
+- **Ignitia**
+  - [GitHub Repository](https://github.com/sai-sreekhar/Yantra-Backend-2023)
+ 
+- **VIT Yantra Hackathan 2023**
+  - [GitHub Repository](https://github.com/Tandoori-Momos/Yantra-Backend)
 
 # 📊 GitHub Stats:
 
