@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
 **Frontend Technologies:**
@@ -72,6 +73,7 @@ Here are some ideas to get you started:
 
 [![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
 [![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com/)
+[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
 [![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)](https://jestjs.io/)
 
 **Databases:**
@@ -87,6 +89,7 @@ Here are some ideas to get you started:
 **Cloud Technologies:**
 
 [![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-in)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)](https://kafka.apache.org/)
 
 **BigData Technologies:**
@@ -119,17 +122,27 @@ Here are some ideas to get you started:
 # 🏆 Achievements:
 
 - 🌟 Specialist Rating (1596) on Codeforces
-- 🌟 Solved 700+ problems on Data Structures and Algorithms.
+- 🌟 Knight on Leetocde
+- 🌟 Solved 800+ problems on Data Structures and Algorithms.
 - 🌟 Runner-Up in VIT - Yantra Hack: Secured a prize in VIT’s flagship hackathon, Yantra Hack, out of 400+ teams.
-- 🌟 VIT Academic Merit Scholarship: Received the VIT Academic Merit Scholarship for outstanding academic achievements in 2021-22 and 2022-23.
-- 🌟 3 Star Coder on Codechef
+- 🌟 VIT Academic Merit Scholarship: Received the VIT Academic Merit Scholarship for outstanding academic achievements in 2021-22, 2022-23 and 2023-24
 
 ## 💼 Experience 
+
+- **Microsoft** (June 2024 - August 2024)
+  - Software Engineer Intern (Hyderabad, Telangana, India)
+    - Contributed to the Microsoft SCC Team and developed Code Insights module.
+    - Worked on Azure Cloud Components like Azure Functions, Azure Key Vaults, Azure Devops, Azure Devops Git API’s, Graph API, Azure Cosmos DB, Github, Microsoft Entra ID.
+    – Prepared requirement specification, analyzed alternative designs, and prepared a comprehensive design document.
+    – Used React for the Frontend and C# for the Backend
+<br>
 
 - **Samsung R&D Institute** (December 2022 - August 2023)
   - Prism Developer (Remote)
     - Developed a Bixby feature with Natural Language Processing (NLP) for users to instruct Bixby to store information and set task reminders.
     - Enhanced Bixby’s functionality, allowing it to retrieve and provide stored information upon user requests.
+    – Utilized the Bert model for accurate relation extraction and Neo4j for efficient data storage, facilitating the creation of a knowledge graph.
+    – Received the Excellence Certificate from Samsung R&D
 
 <br>
 
