@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## 📄 Resume 
 
-[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1cGv9CdTh3umCFYfgQfnETmQ8MfYKa7wn/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1DZL_sB8C2_zTMt1Pfxbft5qZxEiEg6zN/view?usp=sharing)
 
 ## 📚 Education 
 
