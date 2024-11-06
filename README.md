@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 - I am a software developer with a strong passion for learning new technologies and possess excellent problem-solving and coding skills.
 
-- 🌱 I’m currently exploring Big Data Technologies
+- 🌱 I’m currently exploring Cloud Technologies, Machine Learning.
 
 - **Specialist** @codeforces
 
-- Solved 700+ Problems on Leetcode
+- Solved 800+ Problems on Leetcode
 
 - 📫 You can reach me at **sai.sreekhar@gmail.com**
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
   - Bachelor of Technology - Computer Science and Engineering with specialization in Data Science
-  - CGPA: 9.68
+  - CGPA: 9.66
 
 ## 🌐 Accounts:
 
